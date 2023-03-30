@@ -1,0 +1,40 @@
+/*Selector{
+	Property: value;
+}*/
+body{
+	background-image: url(vasile.AVIF);
+	background-size: cover;
+}
+h2, p{color: #599532;
+	text-align: center;
+	border: 5px solid #599532;
+	cursor: pointer;
+}
+p{
+	color: pink;
+	font-family: 'Tapestry', cursive;
+}
+img {
+	float: left;
+}
+p{color: ghostwhite;}
+button{
+	color: navajowhite;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	color: white;
+}
+ul{
+	color: navajowhite;
+}
+.webtext {
+	border: 5px dashed green;
+}
+.active{
+	color: red;
+}
+#div1{
+	background: yellow;
+}
